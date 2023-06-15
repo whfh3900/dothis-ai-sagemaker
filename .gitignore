@@ -17,5 +17,5 @@ ipython_config.py
 model.tar.gz
 vectors.bin
 vectors.txt
-
+token_key
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
