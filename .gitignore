@@ -18,4 +18,6 @@ model.tar.gz
 vectors.bin
 vectors.txt
 token_key
+models/
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
